@@ -23,12 +23,12 @@
     "status": "Completed",
     "emoji": "🎉"
   },
-    {
+  {
     "date": "2025-08-26",
     "name": "Today's Weather",
     "description": "Get realtime weather details of your Location",
     "link": "https://weatherofaugust.netlify.app/",
     "status": "Completed",
     "emoji": "🍃🌧☔💦"
-  }
+ }
 ]
