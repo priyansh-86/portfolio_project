@@ -4,7 +4,6 @@
     "name": "Finance Tracker with AI Insights", 
     "description": "Smart finance tracker providing AI-powered insights for better money management.",
     "link": "https://financeofaugust.netlify.app/",
-    "github": "#",
     "status": "Completed",
     "emoji": "💰"
   },
@@ -13,7 +12,6 @@
     "name": "Travel Planner + Weather",
     "description": "Get Weather info & that location Travel Attraction Spot",
     "link": "https://travelofaugust.netlify.app/",
-    "github": "#",
     "status": "Completed", 
     "emoji": "🗺️⁀જ✈︎"
   },
@@ -22,7 +20,6 @@
     "name": "Midnight of August",
     "description": "Animated background stars shooting with Event Card",
     "link": "https://midnightofaugust.netlify.app/",
-    "github": "#",
     "status": "Completed",
     "emoji": "🎉"
   }
