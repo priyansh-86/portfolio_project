@@ -30,5 +30,13 @@
     "link": "https://weatherofaugust.netlify.app/",
     "status": "Completed",
     "emoji": "🍃🌧☔💦"
+ },
+  {
+    "date": "Coming Up Soon",
+    "name": "P2P Chatting App",
+    "description": "User can intrect with each other by P2P",
+    "link": "#",
+    "status": "ongoing",
+    "emoji": "💭 ✧˚ ༘ 💬⋆｡˚📱"
  }
 ]
