@@ -1,20 +1,29 @@
 [
   {
-    "date": "2025-08-26",
+    "date": "2025-08-24",
     "name": "Finance Tracker with AI Insights", 
     "description": "Smart finance tracker providing AI-powered insights for better money management.",
     "link": "https://financeofaugust.netlify.app/",
-    "github": "https://github.com/priyans-86/finance-tracker",
-    "status": "completed",
+    "github": "#",
+    "status": "Completed",
     "emoji": "💰"
   },
   {
-    "date": "2025-08-26",
-    "name": "3D Portfolio Website",
-    "description": "Advanced portfolio with Three.js animations and interactive 3D elements.",
-    "link": "#",
-    "github": "https://github.com/priyans-86/3d-portfolio",
-    "status": "ongoing", 
-    "emoji": "🚀"
+    "date": "2025-08-25",
+    "name": "Travel Planner + Weather",
+    "description": "Get Weather info & that location Travel Attraction Spot",
+    "link": "https://travelofaugust.netlify.app/",
+    "github": "#",
+    "status": "Completed", 
+    "emoji": "🗺️⁀જ✈︎"
+  }
+  {
+    "date": "2025-08-2",
+    "name": "Midnight of August",
+    "description": "Animated background stars shooting with Event Card",
+    "link": "https://midnightofaugust.netlify.app/",
+    "github": "#",
+    "status": "Completed",
+    "emoji": "🎉"
   }
 ]
