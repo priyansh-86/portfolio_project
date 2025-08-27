@@ -38,5 +38,13 @@
     "link": "https://messengerofaugust.netlify.app/",
     "status": "Completed",
     "emoji": "💭 ✧˚ ༘ 💬⋆｡˚📱"
+ },
+  {
+    "date": "2025-08-27",
+    "name": "Cloud Notes",
+    "description": "Secure cloud-based notes app for organizing, syncing and sharing ideas.",
+    "link": "https://notesofaugust.netlify.app/",
+    "status": "Completed",
+    "emoji": "📒📝"
  }
 ]
