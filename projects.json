@@ -46,5 +46,13 @@
     "link": "https://notesofaugust.netlify.app/",
     "status": "Completed",
     "emoji": "📒📝"
+ },
+  {
+    "date": "2025-08-29",
+    "name": "Loan Calculator",
+    "description": "A comprehensive financial tool that calculates loan EMI, interest payments, tax benefits, and various what-if scenarios for informed borrowing decisions..",
+    "link": "https://loanofaugust.vercel.app/",
+    "status": "Completed",
+    "emoji": "💵💰💳"
  }
 ]
